@@ -1,1 +1,1 @@
-# OpneAI
+# OpneAI     eth,SHIB,Shiba Inu (Portal),0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce,18.0,shiba-inu,https://etherscan.io/token/images/shibatng,CiKu4eHsVrc1eueVQeHn7qhXTcVu95gSQmBpX4utjL9z,8.0,,,0xb1547683DA678f2e1F003A780143EC10Af8a832B,18.0,terra1huku2lecfjhq9d00k5a8dh73gw7dwe6vvuf2dd,8.0
