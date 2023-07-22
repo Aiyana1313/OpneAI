@@ -1,1 +1,1 @@
-# OpneAI
+.gitignore
